@@ -10,8 +10,6 @@
 > - [ Overview](#-overview)
 > - [ Features](#-features)
 > - [ Getting Started](#-getting-started)
-> - [ Contributing](#-contributing)
-> - [ License](#-license)
 
 ---
 
