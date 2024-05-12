@@ -85,7 +85,9 @@ curl 'http://localhost:3000/users' \
 ## Frontend
 
 - VueJS
-
+- Sample images
+  - <img width="961" alt="Screenshot 2567-05-12 at 12 58 43" src="https://github.com/seedchamp45/data-wow-social-media/assets/8091233/2af878c9-0bde-4a31-b9bb-af2986e7404d">
+  - <img width="991" alt="Screenshot 2567-05-12 at 12 58 37" src="https://github.com/seedchamp45/data-wow-social-media/assets/8091233/4be7a050-2a0b-4ef3-a93b-482b69f67b27">
 
 ## Test
 - how to run test
