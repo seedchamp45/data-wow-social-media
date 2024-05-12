@@ -4,7 +4,14 @@ Rails.application.routes.draw do
       sessions: 'users/sessions',
       registrations: 'users/registrations'
     }
-  resource :posts
+  
+  get '/member-data', to: 'members#show'
+
+  get '/posts', to: 'posts#show'
+  post '/posts', to: 'posts#create'
+  put '/posts/:id', to: 'posts#update'  
+  delete '/posts/:id', to: 'posts#destroy'  
+
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
   # Reveal health status on /up that returns 200 if the app boots with no exceptions, otherwise 500.
